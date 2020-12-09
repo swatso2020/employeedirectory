@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/swatso2020/employeedirectory.git/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/swatso2020/employeedirectory.git/static/js/main.b53f193b.chunk.js",
+    "main.js.map": "/swatso2020/employeedirectory.git/static/js/main.b53f193b.chunk.js.map",
+    "runtime-main.js": "/swatso2020/employeedirectory.git/static/js/runtime-main.7d1b2a01.js",
+    "runtime-main.js.map": "/swatso2020/employeedirectory.git/static/js/runtime-main.7d1b2a01.js.map",
+    "static/js/2.aea68229.chunk.js": "/swatso2020/employeedirectory.git/static/js/2.aea68229.chunk.js",
+    "static/js/2.aea68229.chunk.js.map": "/swatso2020/employeedirectory.git/static/js/2.aea68229.chunk.js.map",
+    "index.html": "/swatso2020/employeedirectory.git/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/swatso2020/employeedirectory.git/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.aea68229.chunk.js.LICENSE.txt": "/swatso2020/employeedirectory.git/static/js/2.aea68229.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d1b2a01.js",
+    "static/js/2.aea68229.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.b53f193b.chunk.js"
+  ]
+}
